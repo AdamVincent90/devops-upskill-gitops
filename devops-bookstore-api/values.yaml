@@ -5,7 +5,7 @@
 replicaCount: 3
 
 image:
-  repository: eu.gcr.io/devops-upskill-317018/bookstore-api
+  repository: eu.gcr.io/devops-upskill-317018/devops-bookstore-api
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
